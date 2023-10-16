@@ -1,23 +1,64 @@
-## Shad Balti
+<p align="center">
+  <img src="your-cool-header-image.jpg" width="100%" alt="Header Image">
+</p>
 
-Web developer with 3+ years of experience in JavaScript, HTML, CSS, React, Node.js, and Express.js, and 1+ year of experience in Python. Proven ability to design, develop, and deliver high-quality web applications. Expertise in front-end and back-end development, as well as database design and administration.
+## ShadBalti 👋
 
-### Skills
+I'm Dilshad, a coding enthusiast on a journey to conquer the digital universe.
 
-* Programming languages: JavaScript, Python
-* Web development frameworks: React, Express.js
-* Markup languages: HTML, CSS 
-* Databases: MySQL, PostgreSQL
-* Cloud computing: AWS, Azure
+### 🚀 Quick Facts
 
-### Projects
+- 🔭 I’m currently working on [current-project]
+- 🌱 I’m currently learning [current-learning-focus]
+- 📡 Fun Fact: [Interesting-Fact-About-You]
+- 📫 How to reach me: [Your Portfolio](https://your-portfolio-website.com)
 
-* [Project 1](https://github.com/ShadBalti/project-1) - A web application that allows users to track their fitness goals.
-* [Project 2](https://github.com/ShadBalti/project-2) - An e-commerce website that sells handmade goods.
-* [Project 3](https://github.com/ShadBalti/project-3) - A social media platform that connects people with similar interests.
+### 💼 My Expertise
 
-### Contact
+- **Frontend:** HTML, CSS, JavaScript, React,
+- **Backend:** Node.js, Express
+- **Databases:** MongoDB,
+- **Tools:** VS Code, Git,
 
-* Email: shadbalti@example.com
-* LinkedIn: [LinkedIn profile URL](https://www.linkedin.com/in/shadbalti/)
-* 
+### 🌟 Featured Projects
+
+1. [Project Name](https://github.com/your-username/project-repo)
+   - Short project description.
+
+2. [Project Name](https://github.com/your-username/project-repo)
+   - Short project description.
+
+### 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+### 🎯 Goals
+
+- [ ] Contribute to more open source projects
+- [ ] Learn a new programming language
+- [ ] Build a personal website from scratch
+
+### 💬 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [Twitter](https://twitter.com/your-twitter-handle)
+
+### 🚴‍♂️ Hobbies
+
+- Coding
+- Hiking
+- Gaming
+
+### 📚 Favorite Books
+
+1. "Book Title" by Author
+2. "Book Title" by Author
+
+### 🎵 Favorite Music
+
+- Genre: Artist
+- Genre: Artist
+
+### 🎉 Thanks for visiting! Have a great day.
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=your-username.readme)](https://your-portfolio-website.com)
