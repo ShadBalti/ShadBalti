@@ -22,16 +22,15 @@ I'm Dilshad, a coding enthusiast on a journey to conquer the digital universe.
 
 ### 🌟 Featured Projects
 
-1. [Project Name](https://github.com/your-username/project-repo)
+1. [Simple image editor](https://github.com/ShadBalti/simple-image-editor)
    - Short project description.
 
-2. [Project Name](https://github.com/your-username/project-repo)
+2. [Age calculator App](https://github.com/ShadBalti/age-calculator-app)
    - Short project description.
 
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?ShadBalti=ShadBalti&show_icons=true&theme=radical)
 ### 🎯 Goals
 
 - [ ] Contribute to more open source projects
@@ -40,8 +39,7 @@ I'm Dilshad, a coding enthusiast on a journey to conquer the digital universe.
 
 ### 💬 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
+- [Twitter](https://twitter.com/ShadBalti)
 
 ### 🚴‍♂️ Hobbies
 
