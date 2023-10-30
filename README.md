@@ -30,7 +30,9 @@ I'm Dilshad, a coding enthusiast on a journey to conquer the digital universe.
 
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?ShadBalti=ShadBalti&show_icons=true&theme=radical)
+![ShadBalti's Stats](https://github-readme-stats.vercel.app/api?username=ShadBalti&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![ShadBalti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadBalti&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ### 🎯 Goals
 
 - [ ] Contribute to more open source projects
