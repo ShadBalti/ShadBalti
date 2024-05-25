@@ -24,15 +24,15 @@
 <table align="center">
   <tr>
     <td><strong>Front-end Development</strong></td>
-    <td>HTML5, CSS3, JavaScript, React, Vue.js, Bootstrap, Tailwind CSS</td>
+    <td>HTML5, CSS3, JavaScript, React, Next.js, Bootstrap, Tailwind CSS</td>
   </tr>
   <tr>
     <td><strong>Back-end Development</strong></td>
-    <td>Node.js, Express.js, MongoDB, MySQL</td>
+    <td>Node.js, Express.js, MongoDB</td>
   </tr>
   <tr>
     <td><strong>Tools & Platforms</strong></td>
-    <td>Git, GitHub, VSCode, Postman, Netlify, Vercel</td>
+    <td>Git, GitHub, VSCode, Postman, Vercel</td>
   </tr>
   <tr>
     <td><strong>Other</strong></td>
