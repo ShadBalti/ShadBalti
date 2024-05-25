@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm a 19-year-old self-taught web developer from Khaplu Barah, Gilgit-Baltistan, Pakistan. With a strong passion for coding and a knack for problem-solving, I enjoy contributing to open-source projects and building innovative web applications.
+  Welcome to my GitHub profile! I'm a 20-year-old self-taught web developer from Khaplu Barah, Gilgit-Baltistan, Pakistan. With a strong passion for coding and a knack for problem-solving, I enjoy contributing to open-source projects and building innovative web applications.
 </p>
 
 <h2 align="center">About Me</h2>
@@ -13,8 +13,8 @@
 <ul>
   <li><strong>Name:</strong> Dilshad Hussain</li>
   <li><strong>Username:</strong> ShadBalti</li>
-  <li><strong>Location:</strong> Khaplu Barah, Gilgit-Baltistan, Pakistan</li>
-  <li><strong>Age:</strong> 19</li>
+  <li><strong>Location:</strong> Barah valley, khaplu, Gilgit-Baltistan, Pakistan</li>
+  <li><strong>Age:</strong> 20</li>
   <li><strong>Education:</strong> Self-taught web developer</li>
   <li><strong>Interests:</strong> Web Development, Open Source Contribution, Learning New Technologies, Community Building</li>
 </ul>
@@ -55,13 +55,13 @@
 <p>Here are a few personal projects that showcase my skills and interests:</p>
 
 <ul>
-  <li><a href="https://github.com/ShadBalti/project-name"><strong>Project Name</strong></a>
+  <li><a href="https://github.com/ShadBalti/Age-Calculator-App"><strong> Age Calculator App</strong></a>
     <ul>
       <li><strong>Description:</strong> Brief overview of what the project does.</li>
       <li><strong>Technologies Used:</strong> List of technologies and tools used.</li>
     </ul>
   </li>
-  <li><a href="https://github.com/ShadBalti/project-name"><strong>Project Name</strong></a>
+  <li><a href="https://github.com/ShadBalti/simple-image-editor"><strong> Image Editor</strong></a>
     <ul>
       <li><strong>Description:</strong> Brief overview of what the project does.</li>
       <li><strong>Technologies Used:</strong> List of technologies and tools used.</li>
@@ -81,7 +81,7 @@
   <a href="https://github.com/ShadBalti"><img src="https://img.shields.io/github/followers/ShadBalti?label=GitHub&style=social" alt="GitHub"></a>
   <a href="https://twitter.com/ShadBalti"><img src="https://img.shields.io/twitter/follow/ShadBalti?label=Twitter&style=social" alt="Twitter"></a>
   <a href="https://linkedin.com/in/shadbalti"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
-  <a href="mailto:shadbalti@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red" alt="Email"></a>
+  <a href="shadbalti2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red" alt="Email"></a>
 </p>
 
 <p align="center">
