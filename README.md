@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm a 20-year-old self-taught web developer from Khaplu Barah, Gilgit-Baltistan, Pakistan. With a strong passion for coding and a knack for problem-solving, I enjoy contributing to open-source projects and building innovative web applications.
+  Welcome to my GitHub profile! I'm a 20-year-old self-taught web developer from Barah valley, Khaplu, Gilgit-Baltistan, Pakistan. With a strong passion for coding and a knack for problem-solving, I enjoy contributing to open-source projects and building innovative web applications.
 </p>
 
 <h2 align="center">About Me</h2>
