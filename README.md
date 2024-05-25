@@ -1,91 +1,101 @@
-<p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
-</p>
-<br>
-
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=ShadBalti &color=brightgreen" alt="watching_count" />
- </p>
- <p align="center">
-<img src="https://img.shields.io/badge/Age-26-blue" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
-</p>
-<hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Dilshad Hussain </h1>
-<h3 align="center"> Web developer | Web Engineer </h3>
-<p align="center">
-<a href="https://www.hackerrank.com/ShadBalti" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ShadBalti/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
-<a href="https://www.kaggle.com/ShadBalti" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ShadBalti/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ShadBalti/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
- <a href = "Email: ShadBalti@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
-</p>
-</p>
-
-
+# Hi there, I'm Dilshad Hussain! 👋
 
 <p align="center">
-  <em>
-    Hello, I am Dilshad Hussain 
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
-  </em> 
-  <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  <img src="https://avatars.githubusercontent.com/u/ShadBalti?v=4" width="150" alt="Dilshad Hussain's Avatar"/>
 </p>
-<br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+<p align="center">
+  Welcome to my GitHub profile! I'm a 19-year-old self-taught web developer from Khaplu Barah, Gilgit-Baltistan, Pakistan. With a strong passion for coding and a knack for problem-solving, I enjoy contributing to open-source projects and building innovative web applications.
+</p>
 
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
-✔ I’m currently learning about **deep learning**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
- 
+<h2 align="center">About Me</h2>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
-<p align="left">
-  
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
-  <code> <img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
-  <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
-  <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
+<ul>
+  <li><strong>Name:</strong> Dilshad Hussain</li>
+  <li><strong>Username:</strong> ShadBalti</li>
+  <li><strong>Location:</strong> Khaplu Barah, Gilgit-Baltistan, Pakistan</li>
+  <li><strong>Age:</strong> 19</li>
+  <li><strong>Education:</strong> Self-taught web developer</li>
+  <li><strong>Interests:</strong> Web Development, Open Source Contribution, Learning New Technologies, Community Building</li>
+</ul>
 
-<hr>
+<h2 align="center">Skills and Technologies</h2>
 
+<table align="center">
+  <tr>
+    <td><strong>Front-end Development</strong></td>
+    <td>HTML5, CSS3, JavaScript, React, Vue.js, Bootstrap, Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><strong>Back-end Development</strong></td>
+    <td>Node.js, Express.js, MongoDB, MySQL</td>
+  </tr>
+  <tr>
+    <td><strong>Tools & Platforms</strong></td>
+    <td>Git, GitHub, VSCode, Postman, Netlify, Vercel</td>
+  </tr>
+  <tr>
+    <td><strong>Other</strong></td>
+    <td>RESTful API development, Responsive web design, Cross-browser compatibility</td>
+  </tr>
+</table>
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
+<h2 align="center">Open Source Contributions</h2>
 
+<p>I actively contribute to open-source projects and believe in the power of community-driven development. Some of the notable projects I've contributed to include:</p>
 
------
+<ul>
+  <li><a href="https://github.com/username/project1"><strong>Open Source Project 1</strong></a> - A brief description of the project and your contributions.</li>
+  <li><a href="https://github.com/username/project2"><strong>Open Source Project 2</strong></a> - A brief description of the project and your contributions.</li>
+  <li><a href="https://github.com/username/project3"><strong>Open Source Project 3</strong></a> - A brief description of the project and your contributions.</li>
+</ul>
+
+<h2 align="center">Projects</h2>
+
+<p>Here are a few personal projects that showcase my skills and interests:</p>
+
+<ul>
+  <li><a href="https://github.com/ShadBalti/project-name"><strong>Project Name</strong></a>
+    <ul>
+      <li><strong>Description:</strong> Brief overview of what the project does.</li>
+      <li><strong>Technologies Used:</strong> List of technologies and tools used.</li>
+    </ul>
+  </li>
+  <li><a href="https://github.com/ShadBalti/project-name"><strong>Project Name</strong></a>
+    <ul>
+      <li><strong>Description:</strong> Brief overview of what the project does.</li>
+      <li><strong>Technologies Used:</strong> List of technologies and tools used.</li>
+    </ul>
+  </li>
+  <li><a href="https://github.com/ShadBalti/project-name"><strong>Project Name</strong></a>
+    <ul>
+      <li><strong>Description:</strong> Brief overview of what the project does.</li>
+      <li><strong>Technologies Used:</strong> List of technologies and tools used.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 align="center">Get in Touch</h2>
+
+<p align="center">
+  <a href="https://github.com/ShadBalti"><img src="https://img.shields.io/github/followers/ShadBalti?label=GitHub&style=social" alt="GitHub"></a>
+  <a href="https://twitter.com/ShadBalti"><img src="https://img.shields.io/twitter/follow/ShadBalti?label=Twitter&style=social" alt="Twitter"></a>
+  <a href="https://linkedin.com/in/shadbalti"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
+  <a href="mailto:shadbalti@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red" alt="Email"></a>
+</p>
+
+<p align="center">
+  I'm always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out to me through any of the above platforms.
+</p>
+
+<h2 align="center">Fun Fact</h2>
+
+<p align="center">
+  Living in the beautiful region of Gilgit-Baltistan, I draw inspiration from the stunning landscapes and serene environment, which fuels my creativity and passion for technology.
+</p>
+
+---
+
+<p align="center">
+  Thank you for visiting my profile! Feel free to explore my repositories and connect with me. Let's build something amazing together! 😊
+</p>
