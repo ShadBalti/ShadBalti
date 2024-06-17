@@ -40,16 +40,6 @@
   </tr>
 </table>
 
-<h2 align="center">Open Source Contributions</h2>
-
-<p>I actively contribute to open-source projects and believe in the power of community-driven development. Some of the notable projects I've contributed to include:</p>
-
-<ul>
-  <li><a href="https://github.com/username/project1"><strong>Open Source Project 1</strong></a> - A brief description of the project and your contributions.</li>
-  <li><a href="https://github.com/username/project2"><strong>Open Source Project 2</strong></a> - A brief description of the project and your contributions.</li>
-  <li><a href="https://github.com/username/project3"><strong>Open Source Project 3</strong></a> - A brief description of the project and your contributions.</li>
-</ul>
-
 <h2 align="center">Projects</h2>
 
 <p>Here are a few personal projects that showcase my skills and interests:</p>
@@ -57,20 +47,20 @@
 <ul>
   <li><a href="https://github.com/ShadBalti/Age-Calculator-App"><strong> Age Calculator App</strong></a>
     <ul>
-      <li><strong>Description:</strong> Brief overview of what the project does.</li>
-      <li><strong>Technologies Used:</strong> List of technologies and tools used.</li>
+      <li><strong>Description:</strong> The Age Calculator is a web-based application designed to calculate a person's age based on their birthdate. This project provides a user-friendly interface where users can input their birthdate, and the application will instantly display their age.</li>
+      <li><strong>Technologies Used:</strong> HTML - CSS - JavaScript</li>
     </ul>
   </li>
   <li><a href="https://github.com/ShadBalti/simple-image-editor"><strong> Image Editor</strong></a>
     <ul>
-      <li><strong>Description:</strong> Brief overview of what the project does.</li>
-      <li><strong>Technologies Used:</strong> List of technologies and tools used.</li>
+      <li><strong>Description:</strong> This is a simple yet versatile web-based image editor that allows you to easily adjust the properties of your images. You can upload your own images or load them from external URLs. The editor provides a range of tools to modify your images, including adjusting brightness, opacity, blur, contrast, inverting colors, rotating, and resizing.</li>
+      <li><strong>Technologies Used:</strong> HTML - CSS - JavaScript</li>
     </ul>
   </li>
-  <li><a href="https://github.com/ShadBalti/project-name"><strong>Project Name</strong></a>
+  <li><a href="https://github.com/ShadBalti/GRE"><strong> GitHub Repo Exporer</strong></a>
     <ul>
-      <li><strong>Description:</strong> Brief overview of what the project does.</li>
-      <li><strong>Technologies Used:</strong> List of technologies and tools used.</li>
+      <li><strong>Description:</strong> GitHub Repo Explorer is a web application that allows users to search for GitHub repositories by keyword and filter by programming language</li>
+      <li><strong>Technologies Used:</strong> HTML - CSS - JavaScript - Bootstrap - for responsive design. - GitHub API - to fetch repository data.</li>
     </ul>
   </li>
 </ul>
