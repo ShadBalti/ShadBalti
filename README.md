@@ -1,7 +1,7 @@
 # Hi there, I'm Dilshad Hussain! 👋
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/ShadBalti" width="150" alt="Dilshad Hussain's Avatar"/>
+  <img src="https://avatars.githubusercontent.com/u/e?email=shadbalti2@gmail.com&s=65" width="150" alt="Dilshad Hussain's Avatar"/>
 </p>
 
 <p align="center">
